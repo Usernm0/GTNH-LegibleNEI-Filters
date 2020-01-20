@@ -1,0 +1,31 @@
+{
+BuildCraft|Core:[
+	{keep:[[paintbrush],[],[""]]};
+	{hide:[[eternalSpring, buildToolBlock, debugger],[]]};
+	{keep:[[engineBlock],[2]]};
+	{hide:[[list],[0]]};
+],
+BuildCraft|Robotics:[
+	{keep:[[robot],[],[*boardRobotEmpty*]]};
+],
+BuildCraft|Transport:[
+	{keep:[[pipeFacade],[],['*minecraft:stone"*']]};
+	{keep-one:[[pipeGate],[]]};
+	{keep:[[pipeLens],[15, 31]]};
+	{hide:[[filteredBufferBlock, pipeWaterproof],[]]};
+{hide:[item.buildcraftPipe.,[pipeitemscobblestone, pipeitemsstone, pipeitemsquartz, pipeitemslapis, pipeitemsdaizuli, pipeitemssandstone, pipeitemsemzuli, pipeitemsstripes, pipeitemsclay, pipefluidswood, pipefluidscobblestone, pipefluidsstone, pipefluidsquartz, pipefluidsiron, pipefluidsgold, pipefluidsemerald, pipefluidsdiamond, pipefluidssandstone, pipefluidsclay],[]]};
+],
+BuildCraft|Builders:[
+	{hide:[[machineBlock],[0]]};
+],
+BuildCraft|Factory:[
+	{hide:[[miningWellBlock, pumpBlock, refineryBlock, blockHopper],[]]};
+],
+BuildCraft|Silicon:[
+	{hide:[[laserTableBlock],[5]]};
+	{hide:[[packagerBlock],[]]};
+],
+BuildCraft|Energy:[
+	{hide:[[bucketOil, bucketFuel],[]]};
+]
+}
