@@ -1,0 +1,18 @@
+{
+IC2:[
+{hide:[[blockCable, blockWall, blockHarz, blockBasalt, blockDoorAlloy, blockFoam, blockReinforcedFoam, blockLuminator, blockNuke, blockDynamite, blockDynamiteRemote, blockBarrel],[]]};
+{hide:[[fluidUuMatter, fluidHotCoolant, fluidPahoehoeLava, fluidBiogas, fluidDistilledWater, fluidSuperheatedSteam, fluidSteam],[]]};
+{hide:[[itemupgradekit, itemTurningBlanks, itemTurningBlanksWood, itemcrystalmemory],[]]};
+{hide:[[itemToolForgeHammer, itemLathingTool, itemToolWrench, itemToolDrill, itemToolDDrill, itemToolIridiumDrill, itemToolChainsaw, itemToolWrenchElectric, plasmaLauncher],[]]};
+{hide:[[itemTFBP, itemTFBPCultivation, itemTFBPIrrigation, itemTFBPChilling, itemTFBPDesertification, itemTFBPFlatification, itemTFBPMushroom, itemBatSU, itemSlag, itemIronBlockCuttingBlade, itemAdvIronBlockCuttingBlade, itemDiamondBlockCuttingBlade, itemDebug],[]]};
+{hide:[[itemRecipePart],[4]]};
+{hide:[[blockKineticGenerator],[3]]};
+{hide:[[blockGenerator],[0-2, 4]]};
+{hide:[[blockMachine],[2-5, 7-8, 11, 13-15]]};
+{hide:[[blockMachine2],[3-10, 13]]};
+{hide:[[blockMachine3],[1-2, 8]]};
+	{keep:[[blockElectric, blockChargepad],[],['{}']]};
+	{keep:[[itemFluidCell],[],['{}']]};
+{hide:[itemToolPainter,[Black, Red, Green, Brown, Blue, Purple, Cyan, LightGrey, DarkGrey, Pink, Lime, Yellow, Cloud, Magenta, Orange, White],[]]};
+]
+}
