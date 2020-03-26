@@ -1,0 +1,22 @@
+{
+ForbiddenMagic:[
+	{keep:[[MobCrystal],[],['']]};
+],
+GalacticraftCore:[
+	{keep:[[item.parachute],[0]]};
+	{keep:[item.,[spaceship],[0]]};
+	{hide:[[tile.rocketWorkbench],[]]};
+],
+GalacticraftMars:[
+	{keep:[item.,[spaceshipTier2],[0, 11-13]]};
+	{keep:[item.,[itemTier3Rocket],[0]]};
+],
+GalaxySpace:[
+	{keep:[item.,[Tier4Rocket, Tier5Rocket, Tier6Rocket, Tier7Rocket, Tier8Rocket],[0]]};
+],
+witchery:[
+	{keep:[[shadedglass],[0]]};
+	{hide:[[shadedglass_active],[]]};
+]
+}
+

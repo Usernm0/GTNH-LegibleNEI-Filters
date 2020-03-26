@@ -1,0 +1,7 @@
+{
+tectech:[
+	{hide:[[item.em.debugContainer, item.em.parametrizerMemoryCard, item.em.definitionScanStorage, item.em.definitionContainer, item.tm.teslaStaff],[]]};
+	{hide:[[gt.blockcasingsTT],[5-6, 9-15]]};
+	{hide:[[tile.quantumStuff, tile.turretHeadEM, turretBaseEM, tile.reactorSim],[]]};
+]
+}

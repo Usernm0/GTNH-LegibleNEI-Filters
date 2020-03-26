@@ -1,0 +1,6 @@
+{
+GraviSuite:[
+	{hide:[[BlockRelocatorPortal],[]]};
+	{hide:[[itemPlasmaCell, sonicLauncher],[]]};
+]
+}

@@ -1,0 +1,8 @@
+{
+Botany:[
+	{hide:[[soil, loam, flowerbed, soilNoWeed, loamNoWeed, flowerbedNoWeed, ceramic, stained, ceramicPattern, ceramicBrick, pigment, clay],[]]};
+],
+ExtraTrees:[
+	{hide:[[carpentry, stainedglass, multifence],[]]};
+]
+}

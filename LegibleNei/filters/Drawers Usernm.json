@@ -1,0 +1,19 @@
+{
+StorageDrawers:[
+	{keep:[[fullDrawers1, fullDrawers2, fullDrawers4, halfDrawers2, halfDrawers4, trim],[0]]};
+],
+StorageDrawersBop:[
+	{hide:[[fullDrawers1, fullDrawers2, fullDrawers4, halfDrawers2, halfDrawers4, trim],[]]};
+],
+StorageDrawersForestry:[
+	{hide:[[fullDrawers1A, fullDrawers1B, fullDrawers2A, fullDrawers2B, fullDrawers4A, fullDrawers4B],[]]};
+	{hide:[[halfDrawers2A, halfDrawers2B, halfDrawers4A, halfDrawers4B, trimA, trimB],[]]};
+],
+StorageDrawersMisc:[
+	{hide:[[fullDrawers1_0, fullDrawers1_1, fullDrawers2_0, fullDrawers2_1, fullDrawers4_0, fullDrawers4_1],[]]};
+	{hide:[[halfDrawers2_0, halfDrawers2_1, halfDrawers4_0, halfDrawers4_1, trim_0, trim_1],[]]};
+],
+StorageDrawersNatura:[
+	{hide:[[fullDrawers1, fullDrawers2, fullDrawers4, halfDrawers2, halfDrawers4, trim],[]]};
+]
+}

@@ -1,0 +1,16 @@
+{
+IguanaTweaksTConstruct:[
+	{hide:[[clayBucketsTinkers],[]]};
+],
+TConstruct:[
+	{hide:[[liquid.slime, MeatBlock, WoolSlab2, rail.wood],[]]};
+	{hide:[decoration., [stonetorch, stoneladder, multibrick, multibrickfancy, multibrickmetal],[]]};
+	{keep:[[WoolSlab1, ToolForgeBlock],[0]]};
+	{keep:[[GlassBlock.StainedClear, GlassPaneClearStained],[0]]};
+	{keep:[[ToolStationBlock],[0-1, 5, 10]]};
+	{hide:[[HeldItemBlock, BattleSignBlock],[]]};
+	{hide:[fluid.molten., [invar, electrum, lumium, signalum, mithril, enderium],[]]};
+	{hide:[[blankPattern],[2]]};
+	{hide:[[pickaxe, shovel, hatchet, broadsword, longsword, rapier, dagger, cutlass, frypan, battlesign, mattock, chisel, lumberaxe, cleaver, scythe],[]]};
+]
+}
